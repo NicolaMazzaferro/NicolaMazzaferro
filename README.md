@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @NicolaMazzaferro
 - 👀 I'm a web developer
 - 🌱 I'm currently learning React
-- ✔️ I'm currently know PHP - CSS - JS - HTML - Laravel - Bootstrap
+- ✔️ I'm currently know PHP - Laravel - React - Vue - Tailwind - Bootstrap
 - 💞️ I'm looking for a job in development companies
 - 📫 How to reach me: nicolamazzaferro9@gmail.com
 
